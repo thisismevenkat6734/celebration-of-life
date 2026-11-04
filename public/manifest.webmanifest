@@ -1,0 +1,17 @@
+{
+  "id": "/",
+  "name": "Celebration of Life",
+  "short_name": "COL",
+  "description": "A world of happy moments. Share, celebrate and connect.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#faf9ff",
+  "theme_color": "#7655e8",
+  "lang": "en",
+  "categories": [
+    "social",
+    "lifestyle"
+  ]
+}
